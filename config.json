@@ -1,0 +1,54 @@
+{
+    "cities": [
+      {
+        "name": "Paris",
+        "database": "l3info_14",
+        "user": "l3info_14",
+        "host": "10.11.11.22",
+        "password": "L3INFO_14",
+        "tables": [
+          "stop_route_info_paris"
+        ],
+        "coordinates": [48.8619266629, 2.3519030802],
+        "zoom": 12
+      },
+      {
+        "name": "Helsinki",
+        "database": "l3info_14",
+        "user": "l3info_14",
+        "host": "10.11.11.22",
+        "password": "L3INFO_14",
+        "tables": [
+            "stop_route_info_helsinki"
+        ],
+        "coordinates": [60.173256181300005, 24.9408571473],
+        "zoom": 12
+      },
+      {
+        "name": "Rome",
+        "database": "l3info_14",
+        "user": "l3info_14",
+        "host": "10.11.11.22",
+        "password": "L3INFO_14",
+        "tables": [
+          "stop_route_info_rome"
+        ],
+        "coordinates": [41.8962589762,12.4853168076],
+        "zoom": 12
+      },
+      {
+        "name": "Detroit",
+        "database": "l3info_14",
+        "user": "l3info_14",
+        "host": "10.11.11.22",
+        "password": "L3INFO_14",
+        "tables": [
+          "stop_route_info_detroit"
+        ],
+        "coordinates": [42.3699604575,-83.0807245214],
+        "zoom": 12
+      }
+    ],
+    "maptypes": ["OpenStreetMap", "Stamen Terrain", "stamentoner", "cartodbpositron"]
+  }
+  
